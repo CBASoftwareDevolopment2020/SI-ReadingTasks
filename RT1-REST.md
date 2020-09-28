@@ -43,8 +43,12 @@ Allowing featrues to be downloaded after deployment imporves extensibility but a
 
 ## 2. Why is the dissertation considered so important for the software-architectural world?
 
+The dissertation is considered important, because it was through it that the idea of REST was first introduced. 
+
 ## 3. Which is the most valuable outcome you personally get from it?
 
 From reading the dissertation i have broadened my understanding of REST.
 
 ## 4. How could you implement it in your own practice as a software developer?
+
+I will begin to consider the advantages and disadvanteges before I just blindly choose REST.
