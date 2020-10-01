@@ -9,7 +9,7 @@
 ## Task 2: SOA
 
 - [Task](https://datsoftlyngby.github.io/soft2020fall/resources/907083a7-A5-SOA-Read.pdf)
-- [Answers](RT-SOA.md)
+- [Answers](RT2-SOA.md)
 
 ## Sources
 
