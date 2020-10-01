@@ -18,3 +18,6 @@
    - [Roy Fielding's Misappropriated REST Dissertation](https://twobithistory.org/2020/06/28/rest.html)
 2. SOA
    - [The Difference Between SaaS (Software as a Service) and SOA (Service-Oriented Architecture)](https://medium.com/@invxtech/the-difference-between-saas-software-as-a-service-and-soa-service-oriented-architecture-431cb218a09#:~:text=What%20is%20the%20difference%20between,and%20distribution%20of%20software%20applications.)
+   - [SOA vs. SaaS – What’s the Difference?](https://apprenda.com/library/architecture/soa-vs-saas-whats-the-difference/)
+   - [SaaS vs SOA – What are the Major Differences](https://www.dincloud.com/blog/difference-between-saas-soa)
+   - [Difference Between SaaS and SOA](https://www.differencebetween.com/difference-between-saas-and-vs-soa/)
