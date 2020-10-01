@@ -23,3 +23,5 @@ SOA is a manufacturing model which deals with designing and building software by
 SaaS is a means of delivering software as services over the internet to its subscribers, while SOA is an architectural model in which the smallest unit of logic is a service.
 
 SOA (an architectural strategy) and SaaS (a business model) cannot be directly compared. However, to get the maximum benefits of cost reduction and agility, it is highly recommended that enterprises integrate SOA and SaaS together.
+
+Although the choice between SOA and SaaS based architecture will vary with the unique preferences of each entity, we can safely conclude that a prospecting organization must first exhaust all options for a SaaS solution, before going for SOA.
