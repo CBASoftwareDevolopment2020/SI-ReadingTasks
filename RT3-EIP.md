@@ -14,5 +14,9 @@
   - Insert a special filter, a Message Router, which consumes a Message from one Message Channel and republishes it to a different Message Channel, depending on a set of conditions.
 - **Message Translator**
   - Use a special filter, a Message Translator, between other filters or applications to translate one data format into another.
+- **Parallel Processing**
+  - The overall system throughput is limited by the slowest process in the chain. We can deploy multiple parallel instances of that process to improve throughput.
+- **Pipeline Processing**
+  - Connecting components with asynchronous Message Channels allows each unit in the chain to operate in its own thread or its own process. When a unit has completed processing one message, it can send the message to the output channel and immediately start processing another message.
 - **Pipes and Filters**
   - Use the Pipes and Filters architectural style to divide a larger processing task into a sequence of smaller, independent processing steps (filters) that are connected by channels (pipes).
