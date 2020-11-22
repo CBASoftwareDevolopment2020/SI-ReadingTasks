@@ -42,6 +42,7 @@
 
 ### 12-Factor App
 
-- [The Twelve-FActor App](https://12factor.net/)
+- [The Twelve-Factor App](https://12factor.net/)
 - [How I Use the Twelve-Factor App Methodology for Building SaaS Applications with Java & Scala](https://medium.com/hashmapinc/how-i-use-the-twelve-factor-app-methodology-for-building-saas-applications-with-java-scala-4cdb668cc908)
 - [How the 12-Factor App Methodology Streamlines Application Development](https://thenewstack.io/12-factor-app-streamlines-application-development/)
+- [Twelve-Factor App methodology](https://en.wikipedia.org/wiki/Twelve-Factor_App_methodology)
