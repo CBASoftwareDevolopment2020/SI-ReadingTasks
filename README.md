@@ -17,6 +17,11 @@
 - [chapter 3](https://www.enterpriseintegrationpatterns.com/docs/EnterpriseIntegrationPatterns_HohpeWoolf_ch03.pdf) of "Enterprise Integration Patterns Designing, Building, and Deploying Messaging Solutions" by Gregor Hohpe and Bobby Woolf
 - [Answers](RT3-EIP.md)
 
+## Task 4: 12-Factor App
+
+- [Task](https://datsoftlyngby.github.io/soft2020fall/resources/80748096-A9-12-Factor-App.pdf)
+- [Answers](RT4-12-Factor.md)
+
 ## Sources
 
 ### REST
@@ -34,3 +39,9 @@
 ### EIP
 
 - ["Enterprise Integration Patterns Designing, Building, and Deploying Messaging Solutions" chapter 3](https://www.enterpriseintegrationpatterns.com/docs/EnterpriseIntegrationPatterns_HohpeWoolf_ch03.pdf)
+
+### 12-Factor App
+
+- [The Twelve-FActor App](https://12factor.net/)
+- [How I Use the Twelve-Factor App Methodology for Building SaaS Applications with Java & Scala](https://medium.com/hashmapinc/how-i-use-the-twelve-factor-app-methodology-for-building-saas-applications-with-java-scala-4cdb668cc908)
+- [How the 12-Factor App Methodology Streamlines Application Development](https://thenewstack.io/12-factor-app-streamlines-application-development/)
